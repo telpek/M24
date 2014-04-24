@@ -1,6 +1,6 @@
 package kz.telp.m24;
 
-;
+//;
 import android.app.Activity;
 import android.app.ActionBar;
 import android.app.Fragment;
