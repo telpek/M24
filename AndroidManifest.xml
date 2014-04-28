@@ -28,6 +28,10 @@
             android:label="@string/title_activity_map"
             android:theme="@style/FullscreenTheme" >
         </activity>
+        <activity
+            android:name="kz.telp.m24.FieldPassport"
+            android:label="@string/title_activity_field_passport" >
+        </activity>
     </application>
 
 </manifest>
